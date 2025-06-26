@@ -1,0 +1,1 @@
+A machine learning project that predicts house prices based on various features like location, size, and number of rooms. Built using Python, Pandas, and scikit-learn. Trained on a real estate dataset and optimized using regression models.
